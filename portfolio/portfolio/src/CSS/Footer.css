@@ -1,0 +1,9 @@
+#footer {
+    background: linear-gradient(to bottom right, rgb(19, 18, 18), rgb(19, 16, 16), rgb(0, 0, 0), rgb(59, 10, 59), #3c0963, rgb(18, 2, 58), rgb(2, 34, 2));
+
+}
+@media (max-width: 1360px) {
+   #footer {
+    flex-direction: column  ;
+   }
+}

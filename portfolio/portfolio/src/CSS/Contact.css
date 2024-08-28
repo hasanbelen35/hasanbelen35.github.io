@@ -1,0 +1,8 @@
+
+@media (max-width: 1078px) {
+    #email,
+    #fullname,
+    #message{
+        width: 80%;
+    }
+}

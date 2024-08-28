@@ -1,0 +1,15 @@
+@media (max-width: 550px) {
+    #about-text {
+        font-size: 20px;
+        padding: 10px 10px;
+    }
+
+}
+@media (max-width: 860px) {
+    #about-text {
+        font-size: 20px;
+        padding: 10px 10px;
+    }
+
+    }
+
