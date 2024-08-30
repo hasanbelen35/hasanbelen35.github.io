@@ -12,7 +12,7 @@ export default function Animate({ type }: AnimateProps) {
             x: [-100, 100, -100],
             transition: {
                 duration: 6,
-                repeat: 1,  // Repeat once, so total will be twice (initial + 1 repeat)
+                repeat: 1,  
                 repeatType: "loop",
             },
         },
@@ -20,7 +20,7 @@ export default function Animate({ type }: AnimateProps) {
             opacity: [0, 1, 0],
             transition: {
                 duration: 2,
-                repeat: 1,  // Repeat once, so total will be twice (initial + 1 repeat)
+                repeat: 1,  
                 repeatType: "loop",
             },
         },
